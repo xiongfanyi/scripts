@@ -1,3 +1,2 @@
 # scripts
-nfs-HA.tar.gz
-sersync + keepalived 高可用nfs
+NFS高可用方案 nfs + sersync + keepalived 
